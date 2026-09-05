@@ -1,5 +1,5 @@
 ---
-title: "The Role of Safe Housing in Empowering Survivors of Domestic Violence in Iran"
+title: "Beyond Shelter: Safe Housing, Autonomy, and Domestic Violence in Iran"
 collection: publications
 permalink: /publication/2023-01-01-safe-housing-domestic-violence-iran
 date: 2023-01-01
