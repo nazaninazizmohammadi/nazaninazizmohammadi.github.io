@@ -56,11 +56,19 @@ Legal scholar, researcher, and university professor with experience in comparati
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+## Selected academic service
+
+* **Peer Reviewer**, *Journal of Law Research* — reviewed 13 manuscripts
+
 ## Selected professional certificates and recognition
 
 * **Certificate of Appreciation, Women, Business and the Law 2027**, World Bank Group, 2026
 * **AI, Justice, and the Rule of Law**, Saïd Business School, University of Oxford, with UNESCO, 2026
 * **Women's Leadership Program**, Yale School of Management Executive Education, 2026
+* **Integrating Gender Perspectives into International Operations, Armed Conflicts and Other Crisis Scenarios**, International Institute of Humanitarian Law and OSCE, 2023
+* **Teaching Refugee Law**, International Institute of Humanitarian Law, 2023
+* **International Refugee Law**, International Institute of Humanitarian Law, 2021
+* **Advanced Training in Global Health and International Law**, University at Albany, State University of New York, 2017
 
 ## Selected honors and fellowships
 
