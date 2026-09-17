@@ -6,18 +6,18 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nazanin Azizmohammadi"
+title                    : "Nazanin Azizmohammadi, Ph.D."
 title_separator          : "-"
-name                     : &name "Nazanin Azizmohammadi"
+name                     : &name "Nazanin Azizmohammadi, Ph.D."
 description              : &description "Nazanin Azizmohammadi — Legal scholar in public law, gender, and access to justice"
-url                      : https://nazaninazizmohammadi.github.io
+url                      : https://nazaninazm.com
 baseurl                  : ""
 repository               : "nazaninazizmohammadi/nazaninazizmohammadi.github.io"
 
 # Site Author
 author:
   avatar           : "profile.jpg"
-  name             : "Nazanin Azizmohammadi"
+  name             : "Nazanin Azizmohammadi, Ph.D."
   pronouns         :
   bio              : "Legal scholar specializing in constitutional and public law, women's rights and health, gender-based violence, and access to justice."
   location         : "Washington, DC"
@@ -70,12 +70,12 @@ author:
 
 # Publication Category
 publication_category:
+  peer_reviewed:
+    title: 'Peer-reviewed articles'
   books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
+    title: 'Books and monographs'
+  chapters:
+    title: 'Articles, chapters, and reference works in Persian'
 
 # Site Settings
 teaser                   :

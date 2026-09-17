@@ -13,11 +13,21 @@ I hold a Ph.D. in Public Law and an LL.M. in Gender, International & Comparative
 
 I currently serve as a Senior Research Affiliate at Virginia Tech's Dataism Lab and a Legal Consultant to Equality Now. I previously served as an Adjunct Assistant Professor of Public Law at the University of Science and Culture (2018–2023). My current work examines evidentiary standards in sexual-violence cases and the relationship between domestic constitutional structures and international human-rights norms.
 
+## Research areas
+
+* Gender equality and women's rights
+* Gender-based and sexual violence
+* Public and constitutional law
+* Women's health and public-health law
+* Access to justice
+* Comparative and data-informed legal research
+
 ## Education
 
 * Ph.D. in Public Law, Shahid Beheshti University, 2018
 * LL.M. in Gender, International & Comparative Law, American University, Washington College of Law, 2022
-* 
+* LL.M. in Public Law, Shahid Beheshti University, 2012
+* LL.B. and B.A. in Psychology, Shahid Beheshti University, 2010
 
 ---
 
