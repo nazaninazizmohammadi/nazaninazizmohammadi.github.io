@@ -29,7 +29,7 @@ My public-law research addresses executive power, separation of powers, regulato
 * **Dancing with the Shadows of Gender:** Social and Legal Barriers Facing Transgender Individuals after Transition in Iran
 * **Seeking Protection:** Female Sex Workers' Right to Healthcare in Iran
 
-## Selected policy and institutional work
+## Selected policy research
 
-* Legal advisory and policy work for public institutions in Iran, spanning women's rights, constitutional implementation, public health, harm reduction, safe housing, and access to services for women in vulnerable situations
+* Research on women's rights, constitutional implementation, public health, harm reduction, safe housing, and access to services for women in vulnerable situations
 * Research and teaching on women's right to health, domestic violence, public-health law, and access to justice

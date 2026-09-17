@@ -11,7 +11,7 @@ redirect_from:
 
 ## Profile
 
-Lawyer and legal researcher with experience in comparative public and constitutional law, gender equality, women's health, gender-based violence, and access to justice. My work combines academic research and teaching with legal and policy experience in government, public-health institutions, bar associations, and human-rights organizations.
+Legal scholar, researcher, and university professor with experience in comparative public and constitutional law, gender equality, women's health, gender-based violence, and access to justice. My work combines academic research and teaching with legal and policy research for academic and human-rights organizations.
 
 ## Current appointments
 
@@ -22,7 +22,6 @@ Lawyer and legal researcher with experience in comparative public and constituti
 ## Selected previous experience
 
 * **Adjunct Assistant Professor of Public Law**, University of Science and Culture, 2018–2023
-* **Legal Adviser on Women's Rights, Constitutional Law, and Public Health**, government and public-health institutions in Iran, 2017–2023
 * **Attorney at Law and Legal Consultant**, Central Bar Association, Commission on Human Rights and Domestic Violence, 2014–2017
 
 ## Education
