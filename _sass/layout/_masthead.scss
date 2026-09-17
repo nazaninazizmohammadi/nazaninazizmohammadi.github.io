@@ -66,6 +66,35 @@
   }
 }
 
+.site-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+}
+
+.site-brand__logo {
+  display: block;
+  width: 48px;
+  height: 38px;
+  object-fit: contain;
+  flex: 0 0 auto;
+}
+
+@media (max-width: 520px) {
+  .site-brand__logo {
+    width: 42px;
+    height: 34px;
+  }
+
+  .site-brand__title {
+    display: none;
+  }
+
+  .masthead__menu-item--lg {
+    padding-right: 0.75em;
+  }
+}
+
 .masthead__menu-item.selected a {
   color: var(--global-text-color);
   font-weight: 700;
