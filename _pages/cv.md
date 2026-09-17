@@ -15,7 +15,7 @@ Legal scholar, researcher, and university professor with experience in comparati
 
 ## Current appointments
 
-* **Legal Consultant, Gender-Based Violence Project**, Equality Now, 2026–present
+* **Legal Consultant**, Equality Now, 2026–present
 * **Senior Research Affiliate**, Dataism Laboratory for Quantitative Finance, Virginia Tech, 2025–present
 * **Head of Law Department and Program Lead**, COAT Law Academy, 2024–present
 
@@ -55,6 +55,12 @@ Legal scholar, researcher, and university professor with experience in comparati
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Selected professional certificates and recognition
+
+* **Certificate of Appreciation, Women, Business and the Law 2027**, World Bank Group, 2026
+* **AI, Justice, and the Rule of Law**, Saïd Business School, University of Oxford, with UNESCO, 2026
+* **Women's Leadership Program**, Yale School of Management Executive Education, 2026
 
 ## Selected honors and fellowships
 
