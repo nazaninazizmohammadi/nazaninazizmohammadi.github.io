@@ -27,7 +27,7 @@ I currently serve as a Senior Research Affiliate at Virginia Tech's Dataism Lab 
 * Ph.D. in Public Law, Shahid Beheshti University, 2018
 * LL.M. in Gender, International & Comparative Law, American University, Washington College of Law, 2022
 * LL.M. in Public Law, Shahid Beheshti University, 2012
-* LL.B. and B.A. in Psychology, Shahid Beheshti University, 2010
+* LL.B., Shahid Beheshti University, 2010
 
 ---
 

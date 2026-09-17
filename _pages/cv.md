@@ -30,7 +30,7 @@ Lawyer and legal researcher with experience in comparative public and constituti
 * **LL.M., Gender, International and Comparative Law**, American University Washington College of Law, 2022
 * **Ph.D., Public Law**, Shahid Beheshti University, 2018. Ranked first; full scholarship from Iran's National Elites Foundation
 * **LL.M., Public Law**, Shahid Beheshti University, 2012. Top 1 percent; Fellowship for Exceptional Talents
-* **LL.B. and B.A. in Psychology**, Shahid Beheshti University, 2010
+* **LL.B.**, Shahid Beheshti University, 2010
 
 ## Selected research appointments
 
