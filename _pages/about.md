@@ -17,3 +17,12 @@ I currently serve as a Senior Research Affiliate at Virginia Tech's Dataism Lab 
 
 * Ph.D. in Public Law, Shahid Beheshti University, 2018
 * LL.M. in Gender, International & Comparative Law, American University, Washington College of Law, 2022
+* 
+
+---
+
+<blockquote style="font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-size: 1.3em; border-right: 3px solid #B08A4E; padding-right: 1em; margin-right: 0;">
+My work begins with a public-law concern: how legal institutions distribute power, protection, and vulnerability, particularly in women's lives.
+<br><br>
+<span style="font-family: 'Lora', Georgia, serif; font-style: normal; font-size: 0.6em;">— Nazanin Azizmohammadi</span>
+</blockquote>
