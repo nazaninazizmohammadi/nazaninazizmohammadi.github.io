@@ -31,6 +31,5 @@ My public-law research addresses executive power, separation of powers, regulato
 
 ## Selected policy and institutional work
 
-* Legal and policy research on gender equality, harm reduction, safe housing, and access to services for women in vulnerable situations
-* Constitutional implementation and human-rights analysis for public institutions in Iran
+* Legal advisory and policy work for public institutions in Iran, spanning women's rights, constitutional implementation, public health, harm reduction, safe housing, and access to services for women in vulnerable situations
 * Research and teaching on women's right to health, domestic violence, public-health law, and access to justice

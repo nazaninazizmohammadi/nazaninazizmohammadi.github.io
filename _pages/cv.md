@@ -22,7 +22,7 @@ Lawyer and legal researcher with experience in comparative public and constituti
 ## Selected previous experience
 
 * **Adjunct Assistant Professor of Public Law**, University of Science and Culture, 2018–2023
-* **Legal Adviser, Public Sector and Regulatory Affairs**, government and public-health institutions in Iran, 2017–2023
+* **Legal Adviser on Women's Rights, Constitutional Law, and Public Health**, government and public-health institutions in Iran, 2017–2023
 * **Attorney at Law and Legal Consultant**, Central Bar Association, Commission on Human Rights and Domestic Violence, 2014–2017
 
 ## Education
