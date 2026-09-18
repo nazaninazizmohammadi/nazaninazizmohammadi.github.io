@@ -48,5 +48,10 @@ var addressPoints = [
     "Artificial Intelligence and Government Transformation: In Search of Innovative Regulation<br />UNESCO Chair for Human Rights, Peace and Democracy; Shahid Beheshti University, Iran",
     35.8025136,
     51.3932697
+  ],
+  [
+    "Right to Mental Health and Vulnerable Women<br />First National Conference on the Right to Mental Health, Shahid Beheshti University (in Persian); Tehran, Iran",
+    35.6892523,
+    51.3896004
   ]
 ];
