@@ -1,0 +1,21 @@
+---
+layout: archive
+title: "Essays & Legal Analysis"
+permalink: /writing/
+author_profile: true
+---
+
+<p>Short essays, review pieces, and legal analysis on gender, constitutionalism, public law, economic agency, and access to justice. These public-facing pieces are listed separately from peer-reviewed publications.</p>
+
+<p>Selected video essays will be added alongside related articles as the media collection develops.</p>
+
+{% assign writing_posts = site.categories.writing %}
+{% for post in writing_posts %}
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    <p class="page__meta">{{ post.content_type }} · {{ post.date | date: "%B %-d, %Y" }} · {{ post.language }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>
+  </article>
+{% endfor %}
