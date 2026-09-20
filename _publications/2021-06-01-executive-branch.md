@@ -1,5 +1,6 @@
 ---
 title: "Executive Branch: Analysis of Its Competences and Relations with Other Branches"
+title_fa: "قوه مجریه: واکاوی صلاحیت‌ها و مناسبات آن با دیگر قوا"
 collection: publications
 category: books
 publication_language: Persian

@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Research"
+lang: en
+translation_url: /fa/research/
 permalink: /research/
 author_profile: true
 ---

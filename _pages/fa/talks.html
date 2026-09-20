@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "سخنرانی‌ها و ارائه‌های علمی منتخب"
+permalink: /fa/talks/
+lang: fa
+translation_url: /talks/
+author_profile: true
+---
+
+ارائه‌های منتخب درباره برابری جنسیتی، سلامت و امنیت زنان، حقوق عمومی تطبیقی، آموزش عدالت و تنظیم‌گری فناوری.
+
+{% for post in site.talks reversed %}
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title_fa | default: post.title }}</a></h2>
+    <p class="page__meta">{{ post.date | date: "%Y" }}</p>
+    <p class="archive__item-excerpt">{{ post.type }}، {{ post.venue }}، {{ post.location }}</p>
+  </article>
+{% endfor %}

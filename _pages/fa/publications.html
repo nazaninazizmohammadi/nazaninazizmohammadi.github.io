@@ -1,0 +1,32 @@
+---
+layout: archive
+title: "آثار علمی"
+permalink: /fa/publications/
+lang: fa
+translation_url: /publications/
+author_profile: true
+---
+
+آثار این صفحه بر اساس زبان اصلی انتشار تفکیک شده‌اند. عنوان فارسی آثار فارسی و عنوان اصلی آثار انگلیسی درج شده است.
+
+{% include base_path %}
+{% assign featured_persian = site.publications | where: "publication_group", "featured_persian" | sort: "display_order" %}
+{% assign other_persian = site.publications | where: "publication_group", "other_persian" | sort: "date" | reverse %}
+{% assign english_publications = site.publications | where: "publication_language", "English" | sort: "date" | reverse %}
+
+## آثار فارسی
+
+### کتاب‌ها و آثار مرجع
+{% for post in featured_persian %}
+  {% include archive-single-fa.html %}
+{% endfor %}
+
+### مقالات و فصل‌های کتاب
+{% for post in other_persian %}
+  {% include archive-single-fa.html %}
+{% endfor %}
+
+## آثار انگلیسی
+{% for post in english_publications %}
+  {% include archive-single-fa.html %}
+{% endfor %}

@@ -1,5 +1,6 @@
 ---
 title: "The Judiciary and Rulemaking Power: Challenges and Solutions"
+title_fa: "قوه قضائیه و صلاحیت قاعده‌گذاری: چالش‌ها و راهکارها"
 collection: publications
 category: chapters
 publication_language: Persian

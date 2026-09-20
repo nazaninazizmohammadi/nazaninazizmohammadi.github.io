@@ -1,5 +1,6 @@
 ---
 title: "Explanatory Models of Executive Power: An Introduction to Miniature Leviathan"
+title_fa: "مدل‌های تبیینی امر اجرایی: درآمدی بر لویاتان مینیاتوری"
 collection: publications
 category: chapters
 publication_language: Persian

@@ -1,5 +1,6 @@
 ---
 title: "Electoral Justice"
+title_fa: "دادرسی انتخاباتی"
 collection: publications
 category: books
 publication_language: Persian

@@ -1,5 +1,6 @@
 ---
 title: "Female Sex Work and the Harm Principle in Sharia: A Comparative Analysis"
+title_fa: "کار جنسی زنان و اصل ضرر در فقه: تحلیلی تطبیقی"
 collection: talks
 type: "Invited talk"
 permalink: /talks/female-sex-work-harm-principle

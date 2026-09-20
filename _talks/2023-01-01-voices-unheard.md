@@ -1,5 +1,6 @@
 ---
 title: "Voices Unheard: Amplifying the Rights of Vulnerable Women in Iran through Digital Innovation"
+title_fa: "صداهای ناشنیده: تقویت حقوق زنان آسیب‌پذیر در ایران از طریق نوآوری دیجیتال"
 collection: talks
 type: "Conference presentation, co-presenter"
 permalink: /talks/voices-unheard-digital-innovation

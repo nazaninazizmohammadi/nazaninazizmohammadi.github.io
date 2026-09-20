@@ -1,5 +1,6 @@
 ---
 title: "Right to Mental Health and Vulnerable Women"
+title_fa: "حق بر سلامت روان و زنان آسیب‌پذیر"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/mental-health-vulnerable-women

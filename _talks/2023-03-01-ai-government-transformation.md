@@ -1,5 +1,6 @@
 ---
 title: "Artificial Intelligence and Government Transformation: In Search of Innovative Regulation"
+title_fa: "هوش مصنوعی و تحول دولت: در جست‌وجوی تنظیم‌گری نوآورانه"
 collection: talks
 type: "Invited talk"
 permalink: /talks/ai-government-transformation

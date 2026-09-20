@@ -1,5 +1,6 @@
 ---
 title: "Distribution of Powers in the Federal Constitutional Systems of Germany and the United States"
+title_fa: "توزیع صلاحیت‌ها در نظام‌های اساسی فدرال آلمان و ایالات متحده آمریکا"
 collection: publications
 category: chapters
 publication_language: Persian

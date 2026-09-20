@@ -1,5 +1,6 @@
 ---
 title: "Law: The Essence of Social Survival"
+title_fa: "حقوق؛ جان‌مایه بقای اجتماع"
 collection: publications
 category: chapters
 publication_language: Persian

@@ -1,5 +1,6 @@
 ---
 title: "Distribution of Fiscal Powers in Federal Constitutional Systems: A Comparative Study of Germany and the United States"
+title_fa: "توزیع صلاحیت‌های مالی در نظام‌های اساسی فدرال: مطالعه تطبیقی آلمان و ایالات متحده آمریکا"
 collection: publications
 category: chapters
 publication_language: Persian

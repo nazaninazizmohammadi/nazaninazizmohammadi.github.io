@@ -1,5 +1,6 @@
 ---
 title: "A Study of Power Engineering in Iran's Constitutional System"
+title_fa: "مطالعه مهندسی قدرت در نظام اساسی ایران"
 collection: publications
 category: chapters
 publication_language: Persian

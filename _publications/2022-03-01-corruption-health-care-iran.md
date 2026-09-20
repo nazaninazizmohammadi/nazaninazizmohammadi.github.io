@@ -1,5 +1,6 @@
 ---
 title: "Critical Analysis of Corruption in Iran's Health Care System and Its Control Strategies"
+title_fa: "تحلیل انتقادی فساد در نظام سلامت ایران و راهبردهای کنترل آن"
 collection: publications
 category: peer_reviewed
 publication_language: English

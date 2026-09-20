@@ -1,5 +1,6 @@
 ---
 title: "Legal Policymaking Encyclopedia: Separation of Powers and Bureaucracy"
+title_fa: "دانشنامه سیاست‌گذاری حقوقی: تفکیک قوا و بوروکراسی"
 collection: publications
 category: chapters
 publication_language: Persian

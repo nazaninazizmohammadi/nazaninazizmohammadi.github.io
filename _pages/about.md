@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Nazanin Azizmohammadi"
+lang: en
+translation_url: /fa/
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +16,15 @@ My work begins with a public-law concern: how legal institutions distribute powe
 I hold a Ph.D. in Public Law and an LL.M. in Gender, International & Comparative Law. My background combines academic research, university teaching, and legal and policy research on women's rights, constitutional law, and public health. My prior work included research on harm reduction, safe housing, and women in vulnerable situations. My research draws on doctrinal analysis, judicial decisions, interviews, and comparative or statistical evidence when these methods help explain institutional patterns.
 
 I currently serve as a Senior Research Affiliate at Virginia Tech's Dataism Lab and a Legal Consultant with Equality Now. I previously served as an Adjunct Assistant Professor of Public Law at the University of Science and Culture (2018–2023). My current work examines evidentiary standards in sexual-violence cases and the relationship between domestic constitutional structures and international human-rights norms.
+
+<section class="eqlex-brand" aria-labelledby="eqlex-heading-en">
+  <img class="eqlex-brand__logo" src="{{ '/images/eqlex-logo.jpg' | relative_url }}" alt="EqLex logo">
+  <div>
+    <h2 class="eqlex-brand__name" id="eqlex-heading-en">EqLex</h2>
+    <p class="eqlex-brand__message">LAW • EQUALITY • A MORE EQUAL WORLD</p>
+    <p>EqLex is an independent research and public-education initiative examining law, gender equality, and women's agency in Iran and in comparative perspective.</p>
+  </div>
+</section>
 
 ## Research areas
 

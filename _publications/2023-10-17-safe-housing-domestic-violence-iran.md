@@ -1,5 +1,6 @@
 ---
 title: "The Role of Safe Housing in Empowering Survivors of Domestic Violence in Iran"
+title_fa: "نقش خانه‌های امن در توانمندسازی بازماندگان خشونت خانگی در ایران"
 collection: publications
 category: peer_reviewed
 publication_language: English

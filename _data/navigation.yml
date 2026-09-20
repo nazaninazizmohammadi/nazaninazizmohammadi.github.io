@@ -18,3 +18,22 @@ main:
 
   - title: "CV"
     url: /cv/
+
+main_fa:
+  - title: "پژوهش"
+    url: /fa/research/
+
+  - title: "آثار علمی"
+    url: /fa/publications/
+
+  - title: "یادداشت‌ها"
+    url: /fa/writing/
+
+  - title: "سخنرانی‌ها"
+    url: /fa/talks/
+
+  - title: "تدریس"
+    url: /fa/teaching/
+
+  - title: "رزومه"
+    url: /fa/cv/

@@ -5,13 +5,18 @@
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a class="site-brand" href="{{ base_path }}/">
+          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' or page.url == '/fa/' %}selected{% endif %}">
+            <a class="site-brand" href="{% if page.lang == 'fa' %}{{ '/fa/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
               <img class="site-brand__logo" src="{{ base_path }}/images/nazanin-equality-logo.png" alt="" width="48" height="38" fetchpriority="high" />
-              <span class="site-brand__title">{{ site.title }}</span>
+              <span class="site-brand__title">{% if page.lang == "fa" %}دکتر نازنین عزیزمحمدی{% else %}{{ site.title }}{% endif %}</span>
             </a>
           </li>
-          {% for link in site.data.navigation.main %}
+          {% if page.lang == "fa" %}
+            {% assign navigation_links = site.data.navigation.main_fa %}
+          {% else %}
+            {% assign navigation_links = site.data.navigation.main %}
+          {% endif %}
+          {% for link in navigation_links %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
@@ -21,6 +26,13 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
+          <li class="masthead__menu-item persist language-switch">
+            {% if page.lang == "fa" %}
+              <a href="{{ page.translation_url | default: '/' | relative_url }}" lang="en" hreflang="en" aria-label="View this page in English">EN</a>
+            {% else %}
+              <a href="{{ page.translation_url | default: '/fa/' | relative_url }}" lang="fa" hreflang="fa" aria-label="مشاهده این صفحه به فارسی">فا</a>
+            {% endif %}
+          </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>

@@ -1,5 +1,6 @@
 ---
 title: "Miniature Leviathan and the Executive: A New Discourse About Modern Public Law"
+title_fa: "لویاتان مینیاتوری و امر اجرایی: گفتاری نو درباره حقوق عمومی مدرن"
 collection: publications
 category: books
 publication_language: Persian

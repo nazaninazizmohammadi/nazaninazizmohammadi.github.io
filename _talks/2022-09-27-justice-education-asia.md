@@ -1,5 +1,6 @@
 ---
 title: "Regional Conclave on Justice Education in Asia"
+title_fa: "نشست منطقه‌ای آموزش عدالت در آسیا"
 collection: talks
 type: "Conference presenter"
 permalink: /talks/justice-education-asia

@@ -1,5 +1,6 @@
 ---
 title: "The Evolution of Separation of Powers in Light of Regulatory Governance"
+title_fa: "تحول تفکیک قوا در پرتو حکمرانی تنظیم‌گر"
 collection: publications
 category: chapters
 publication_language: Persian
