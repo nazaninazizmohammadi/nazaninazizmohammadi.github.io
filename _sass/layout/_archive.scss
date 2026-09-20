@@ -84,6 +84,45 @@
   }
 }
 
+.archive__item--with-cover {
+  display: grid;
+  grid-template-columns: minmax(140px, 190px) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--global-border-color);
+
+  .archive__item-cover {
+    display: block;
+    padding: 0.45rem;
+    background: #f7f3eb;
+    border: 1px solid var(--global-border-color);
+    border-radius: $border-radius;
+    text-decoration: none;
+  }
+
+  .archive__item-cover img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: contain;
+  }
+
+  .archive__item-body .archive__item-title {
+    margin-top: 0;
+  }
+
+  @media (max-width: 620px) {
+    grid-template-columns: 1fr;
+
+    .archive__item-cover {
+      width: min(100%, 280px);
+      margin: 0 auto;
+    }
+  }
+}
+
 
 /*
    List view

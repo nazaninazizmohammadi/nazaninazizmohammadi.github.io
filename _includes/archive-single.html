@@ -13,7 +13,19 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item{% if include.type != 'grid' and post.collection == 'publications' and teaser %} archive__item--with-cover{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type != "grid" and post.collection == "publications" and teaser %}
+      <a class="archive__item-cover" href="{{ base_path }}{{ post.url }}" aria-label="View {{ title | strip_html }}">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="Cover of {{ title | strip_html }}">
+      </a>
+      <div class="archive__item-body">
+    {% endif %}
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -78,6 +90,10 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% endif %}
+
+    {% if include.type != "grid" and post.collection == "publications" and teaser %}
+      </div>
     {% endif %}
 
   </article>
