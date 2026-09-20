@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="{{ base_path }}/images/nazanin-about-2026.jpg" alt="Nazanin Azizmohammadi" class="align-right" style="width: 320px; max-width: 100%; border-radius: 4px;">
+
 My work begins with a public-law concern: how legal institutions distribute power, protection, and vulnerability, particularly in women's lives. I am an Iranian legal scholar specialising in constitutional and public law, women's rights and health, gender-based and sexual violence, and access to justice. Iran is my primary jurisdiction, and I draw on comparative perspectives from the United States and other legal systems to examine the distance between formal legal guarantees and their operation in practice.
 
 I hold a Ph.D. in Public Law and an LL.M. in Gender, International & Comparative Law. My background combines academic research, university teaching, and legal and policy research on women's rights, constitutional law, and public health. My prior work included research on harm reduction, safe housing, and women in vulnerable situations. My research draws on doctrinal analysis, judicial decisions, interviews, and comparative or statistical evidence when these methods help explain institutional patterns.
