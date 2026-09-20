@@ -2,6 +2,8 @@
 title: "A Study of Power Engineering in Iran's Constitutional System"
 collection: publications
 category: chapters
+publication_language: Persian
+publication_group: other_persian
 permalink: /publication/power-engineering-iran-constitutional-system
 date: 2020-04-01
 venue: "State and Law Journal (in Persian)"

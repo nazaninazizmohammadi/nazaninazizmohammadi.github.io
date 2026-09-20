@@ -2,6 +2,7 @@
 title: "Critical Analysis of Corruption in Iran's Health Care System and Its Control Strategies"
 collection: publications
 category: peer_reviewed
+publication_language: English
 permalink: /publication/corruption-health-care-system-iran
 date: 2022-03-01
 venue: "Shiraz E-Medical Journal, 23(3), e115669"

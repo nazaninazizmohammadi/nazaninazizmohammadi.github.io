@@ -2,6 +2,8 @@
 title: "Distribution of Fiscal Powers in Federal Constitutional Systems: A Comparative Study of Germany and the United States"
 collection: publications
 category: chapters
+publication_language: Persian
+publication_group: other_persian
 permalink: /publication/fiscal-powers-federal-systems
 date: 2022-01-01
 venue: "Constitutional Law Magazine (in Persian)"

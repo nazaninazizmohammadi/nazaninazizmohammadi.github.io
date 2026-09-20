@@ -2,6 +2,9 @@
 title: "Electoral Justice"
 collection: publications
 category: books
+publication_language: Persian
+publication_group: featured_persian
+display_order: 2
 permalink: /publication/electoral-justice
 date: 2018-06-01
 venue: "Mizan Publication, Iran (book in Persian)"

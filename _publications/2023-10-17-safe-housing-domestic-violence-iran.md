@@ -2,6 +2,7 @@
 title: "The Role of Safe Housing in Empowering Survivors of Domestic Violence in Iran"
 collection: publications
 category: peer_reviewed
+publication_language: English
 permalink: /publication/safe-housing-domestic-violence-iran
 date: 2023-10-17
 venue: "ELCOP Journal on Human Rights, 1(1), 89–102"

@@ -1,7 +1,10 @@
 ---
-title: "Separation of Powers and Bureaucracy"
+title: "Legal Policymaking Encyclopedia: Separation of Powers and Bureaucracy"
 collection: publications
 category: chapters
+publication_language: Persian
+publication_group: featured_persian
+display_order: 5
 permalink: /publication/separation-powers-bureaucracy
 date: 2020-02-01
 venue: "Legal Policymaking Encyclopedia, Legal Vice Presidency Publication (in Persian)"
