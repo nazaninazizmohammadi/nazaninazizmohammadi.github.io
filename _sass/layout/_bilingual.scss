@@ -5,6 +5,36 @@
   letter-spacing: 0.02em;
 }
 
+/* Keep long-form text aligned on both edges across the English and Persian
+   sites. Short interface text, headings, dates, labels, and navigation remain
+   naturally aligned so justification does not create distracting gaps. */
+.page__content > p,
+.archive > p,
+.archive__item-excerpt,
+.author__bio,
+.eqlex-brand > div > p:not(.eqlex-brand__message),
+.cv-item-summary,
+.cv-item-highlights li,
+.cv-item-courses li {
+  text-align: justify;
+  text-align-last: start;
+  text-justify: inter-word;
+  overflow-wrap: break-word;
+}
+
+html[lang="en"] {
+  .page__content > p,
+  .archive > p,
+  .archive__item-excerpt,
+  .author__bio,
+  .eqlex-brand > div > p:not(.eqlex-brand__message),
+  .cv-item-summary,
+  .cv-item-highlights li,
+  .cv-item-courses li {
+    hyphens: auto;
+  }
+}
+
 html[dir="rtl"] {
   body {
     direction: rtl;
