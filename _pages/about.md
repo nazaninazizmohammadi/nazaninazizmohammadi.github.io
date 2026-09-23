@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Nazanin Azizmohammadi"
-seo_title: "Nazanin Azizmohammadi, Ph.D. | Public Law and Gender"
+seo_title: "Nazanin Azizmohammadi, Ph.D. — Public Law and Gender"
 description: "Official website of Nazanin Azizmohammadi (Fatemeh Azizmohammadi), a legal scholar and researcher in public law, constitutional law, women's rights, gender equality, and access to justice."
 lang: en
 translation_url: /fa/

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-seo_title: "CV | Nazanin Azizmohammadi, Ph.D."
+seo_title: "CV — Nazanin Azizmohammadi, Ph.D."
 description: "Academic CV of Nazanin Azizmohammadi (Fatemeh Azizmohammadi), legal scholar and researcher in public law, constitutional law, gender equality, women's rights, and access to justice."
 lang: en
 translation_url: /fa/cv/
