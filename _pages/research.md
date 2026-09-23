@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Research"
+seo_title: "Research | Nazanin Azizmohammadi, Ph.D."
+description: "Research by Nazanin Azizmohammadi on public and constitutional law, women's rights, gender-based violence, access to justice, and legal inequality in Iran and comparative perspective."
 lang: en
 translation_url: /fa/research/
 permalink: /research/

@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Nazanin Azizmohammadi"
+seo_title: "Nazanin Azizmohammadi, Ph.D. | Public Law and Gender"
+description: "Official website of Nazanin Azizmohammadi (Fatemeh Azizmohammadi), a legal scholar and researcher in public law, constitutional law, women's rights, gender equality, and access to justice."
 lang: en
 translation_url: /fa/
 author_profile: true
@@ -10,6 +12,8 @@ redirect_from:
 ---
 
 <img src="{{ base_path }}/images/nazanin-about-2026.jpg" alt="Nazanin Azizmohammadi" class="align-right" style="width: 320px; max-width: 100%; border-radius: 4px;">
+
+Nazanin Azizmohammadi, also known as Fatemeh Azizmohammadi, is an Iranian legal scholar and researcher based in Washington, D.C.
 
 My work begins with a public-law concern: how legal institutions distribute power, protection, and vulnerability, particularly in women's lives. I am an Iranian legal scholar specialising in constitutional and public law, women's rights and health, gender-based and sexual violence, and access to justice. Iran is my primary jurisdiction, and I draw on comparative perspectives from the United States and other legal systems to examine the distance between formal legal guarantees and their operation in practice.
 
