@@ -57,6 +57,24 @@ html[dir="rtl"] {
     line-height: 2;
   }
 
+  /* Sidebar copy is too narrow for full justification in Persian. */
+  .author__bio {
+    text-align: right;
+    text-align-last: right;
+  }
+
+  .author__urls {
+    right: auto;
+    left: 0;
+  }
+
+  .icon-pad-right {
+    padding-right: 0;
+    margin-right: 0;
+    padding-left: 0.5em;
+    margin-left: 0.5em;
+  }
+
   .archive__item--with-cover {
     direction: rtl;
   }
@@ -64,6 +82,41 @@ html[dir="rtl"] {
   .masthead__menu-item--lg {
     margin-left: 1.5rem;
     margin-right: 0;
+  }
+
+  .greedy-nav button,
+  .greedy-nav .hidden-links {
+    right: auto;
+    left: 0;
+  }
+
+  /* The fixed desktop footer obscures the longer Persian copy. */
+  .page__footer {
+    position: relative;
+    bottom: auto;
+  }
+
+  @include breakpoint($large) {
+    /* Mirror the English two-column layout: profile on the right and page
+       content on the left, without allowing the two columns to overlap. */
+    .archive {
+      @include span(10 of 12 last rtl);
+      padding-left: 0;
+      @include prefix(0.5 of 12 rtl);
+    }
+
+    .page {
+      @include span(10 of 12 last rtl);
+      @include prefix(0.5 of 12 rtl);
+      @include suffix(2 of 12 rtl);
+    }
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  html[dir="rtl"] .author__content {
+    padding-left: 25px;
+    padding-right: 15px;
   }
 }
 
