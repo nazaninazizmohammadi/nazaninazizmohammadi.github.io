@@ -12,7 +12,6 @@ tags:
 content_type: "Review and legal analysis"
 language: "Persian"
 lang: fa
-translation_url: /writing/
 excerpt: "مروری بر داده‌های Women, Business and the Law 2026 و رابطه پیچیده میان اشتغال، استقلال اقتصادی، قدرت چانه‌زنی و امنیت زنان."
 author_profile: true
 read_time: true

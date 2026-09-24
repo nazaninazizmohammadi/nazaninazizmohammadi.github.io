@@ -12,7 +12,6 @@ tags:
 content_type: "Public-law note"
 language: "English"
 lang: en
-translation_url: /fa/writing/
 excerpt: "A public-law response to Equality Now's case for constitutional equality, examining federalism, congressional power, the ERA, and the need for an enforceable national minimum of protection."
 author_profile: true
 read_time: true

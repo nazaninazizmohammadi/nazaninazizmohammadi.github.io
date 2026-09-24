@@ -13,9 +13,11 @@ author_profile: true
 
 {% assign writing_posts = site.categories.writing %}
 {% for post in writing_posts %}
+  {% if post.lang == 'fa' %}
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2 class="archive__item-title no_toc" itemprop="headline"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     <p class="page__meta">{% if post.content_type == 'Legal analysis' %}تحلیل حقوقی{% elsif post.content_type == 'Public-law note' %}یادداشت حقوق عمومی{% else %}مرور و تحلیل حقوقی{% endif %} · {{ post.date | date: "%Y-%m-%d" }} · {% if post.language == 'Persian' %}فارسی{% else %}انگلیسی{% endif %}</p>
     <p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
   </article>
+  {% endif %}
 {% endfor %}
