@@ -9,7 +9,7 @@ site_theme               : "default"
 title                    : "Nazanin Azizmohammadi, Ph.D."
 title_separator          : "-"
 name                     : &name "Nazanin Azizmohammadi, Ph.D."
-description              : &description "Official website of Nazanin Azizmohammadi (Fatemeh Azizmohammadi), a legal scholar working on public and constitutional law, women's rights, gender equality, and access to justice."
+description              : &description "Official website of Fatemeh Azizmohammadi, professionally known as Nazanin Azizmohammadi, a legal scholar working on public and constitutional law, women's rights, gender equality, and access to justice."
 url                      : https://nazaninazm.com
 baseurl                  : ""
 repository               : "nazaninazizmohammadi/nazaninazizmohammadi.github.io"
@@ -133,9 +133,9 @@ og_description             :
 
 social:
   type                   : "Person"
-  name                   : "Nazanin Azizmohammadi, Ph.D."
+  name                   : "Fatemeh Azizmohammadi, Ph.D."
   alternate_names:
-    - "Fatemeh Azizmohammadi"
+    - "Nazanin Azizmohammadi"
     - "نازنین عزیزمحمدی"
     - "فاطمه عزیزمحمدی"
   job_title              : "Legal scholar and researcher"
