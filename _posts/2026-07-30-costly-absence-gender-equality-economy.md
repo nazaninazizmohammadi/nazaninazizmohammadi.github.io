@@ -12,6 +12,7 @@ tags:
 content_type: "Legal analysis"
 language: "Persian"
 lang: fa
+translation_url: /writing/costly-absence-gender-inequality-economy/
 excerpt: "تحلیلی حقوقی و اقتصادی از شکاف میان برابری صوری و برابری واقعی، و نقش قانون، شرکت‌ها و نهادهای نظارتی در مشارکت اقتصادی زنان."
 author_profile: true
 read_time: true
