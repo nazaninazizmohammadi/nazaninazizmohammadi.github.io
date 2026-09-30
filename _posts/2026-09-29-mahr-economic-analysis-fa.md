@@ -2,6 +2,8 @@
 title: "از حق مالی تا اهرم خروج: تحلیل اقتصادی مهریه در حقوق خانواده ایران"
 date: 2026-09-29
 permalink: /writing/mahr-economic-analysis-fa/
+redirect_from:
+  - /mahr-fa/
 categories:
   - writing
 tags:

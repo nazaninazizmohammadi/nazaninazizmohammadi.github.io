@@ -2,6 +2,8 @@
 title: "From Financial Right to Exit Leverage: An Economic Analysis of Mahr in Iranian Family Law"
 date: 2026-09-29
 permalink: /writing/mahr-economic-analysis/
+redirect_from:
+  - /mahr-en/
 categories:
   - writing
 tags:
