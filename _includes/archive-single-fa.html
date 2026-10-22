@@ -1,5 +1,6 @@
 {% include base_path %}
 {% assign display_title = post.title_fa | default: post.title %}
+{% assign display_url = post.translation_url_fa | default: post.url %}
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -9,7 +10,7 @@
 <div class="list__item">
   <article class="archive__item{% if teaser %} archive__item--with-cover{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if teaser %}
-      <a class="archive__item-cover" href="{{ base_path }}{{ post.url }}" aria-label="مشاهده {{ display_title | strip_html }}">
+      <a class="archive__item-cover" href="{{ base_path }}{{ display_url }}" aria-label="مشاهده {{ display_title | strip_html }}">
         <img src="{{ teaser | prepend: '/images/' | prepend: base_path }}" alt="جلد {{ display_title | strip_html }}">
       </a>
       <div class="archive__item-body">
@@ -19,7 +20,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ display_title }}</a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ display_title }}</a>
+        <a href="{{ base_path }}{{ display_url }}" rel="permalink">{{ display_title }}</a>
       {% endif %}
     </h2>
 
@@ -28,6 +29,10 @@
     {% endif %}
     {% if post.citation %}<p>شیوه استناد پیشنهادی: {{ post.citation }}</p>{% endif %}
     {% if post.excerpt_fa %}<p class="archive__item-excerpt">{{ post.excerpt_fa }}</p>{% endif %}
+
+    {% if post.paperurl %}
+      <p><a href="{{ post.paperurl }}">دریافت متن کامل مقاله (PDF){% if post.publication_language == "Persian" %}، فارسی{% endif %}</a></p>
+    {% endif %}
 
     {% if teaser %}</div>{% endif %}
   </article>
