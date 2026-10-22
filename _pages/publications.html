@@ -19,7 +19,7 @@ This page separates publications by their original language. English titles are 
 
 {% assign featured_persian = site.publications | where: "publication_group", "featured_persian" | sort: "display_order" %}
 {% assign other_persian = site.publications | where: "publication_group", "other_persian" | sort: "date" | reverse %}
-{% assign english_publications = site.publications | where: "publication_language", "English" | sort: "date" | reverse %}
+{% assign english_publications = site.publications | where: "publication_language", "English" | where_exp: "item", "item.publication_status != 'accepted_abstract'" | sort: "date" | reverse %}
 
 <h2>Persian-language publications</h2>
 <hr />
@@ -42,4 +42,16 @@ This page separates publications by their original language. English titles are 
   {% for post in english_publications %}
     {% include archive-single.html %}
   {% endfor %}
+{% endif %}
+
+{% assign accepted_abstracts = site.publications | where: "publication_status", "accepted_abstract" | sort: "conference_start_date" %}
+{% if accepted_abstracts.size > 0 %}
+<h2>Accepted conference abstracts</h2>
+{% for post in accepted_abstracts %}
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <h3 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p><strong>Abstract accepted for presentation</strong> · English · {{ post.conference_start_date | date: "%Y" }}</p>
+    <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+  </article>
+{% endfor %}
 {% endif %}
