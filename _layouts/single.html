@@ -36,6 +36,8 @@ layout: default
         
         {% if page.publication_status == 'accepted_abstract' %}
           <p><strong>Abstract accepted for presentation</strong> · Acceptance received {{ page.date | date: "%B %-d, %Y" }}</p>
+        {% elsif page.publication_status == 'conference_presentation' %}
+          <p>Workshop presentation · {{ page.conference_start_date | date: "%-d" }}–{{ page.conference_end_date | date: "%-d %B %Y" }} · {{ page.venue }}</p>
         {% elsif page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}

@@ -24,7 +24,9 @@
       {% endif %}
     </h2>
 
-    {% if post.venue %}
+    {% if post.publication_status == 'conference_presentation' %}
+      <p>ارائه در کارگاه · {{ post.venue_fa | default: post.venue }} · {{ post.conference_dates_fa | default: post.conference_start_date }}</p>
+    {% elsif post.venue %}
       <p>منتشرشده در <i>{{ post.venue_fa | default: post.venue }}</i>، {{ post.date | date: "%Y" }}</p>
     {% endif %}
     {% if post.citation %}<p>شیوه استناد پیشنهادی: {{ post.citation }}</p>{% endif %}
