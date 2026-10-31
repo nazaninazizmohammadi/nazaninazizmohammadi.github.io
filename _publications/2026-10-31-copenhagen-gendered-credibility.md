@@ -39,14 +39,32 @@ Senior Research Affiliate, Dataism Lab, Virginia Tech
   </a>
 </figure>
 
-I’m pleased to share that I’ll be presenting my paper at the University of Copenhagen’s **Computational Approaches to Constitutional Law and Government** workshop on **22–23 April 2027**:
+## Research summary
 
-**Computational Analysis under Selective Judicial Publication: Gendered Credibility and Constitutional Access to Justice in Iran**
+This project examines how women’s credibility is assessed in officially published Iranian judicial decisions concerning rape allegations and related sexual-conduct charges. It asks whether computational methods can identify gendered patterns in judicial reasoning while preserving distinctions that are essential to legal interpretation. The constitutional concern is access to justice: how the treatment of a complainant’s account affects her ability to seek protection, have her allegations considered, and participate in proceedings without her credibility being reduced to assumptions about gender or sexual conduct.
 
-My research examines how courts assess women’s credibility in published Iranian judgments concerning rape and related sexual offences. The project will compare analysis by a Persian-language large language model with expert legal coding to investigate gendered judicial reasoning, while accounting for the limits of selectively published judgments.
+The research uses a bounded corpus of officially published decisions. Selective judicial publication is treated as a condition shaping the inquiry, rather than a limitation mentioned only after analysis. The available record cannot establish the prevalence of particular practices across Iranian courts or represent cases that never reach publication. The project therefore focuses on reasoning visible in the selected decisions, the patterns that can be documented within that corpus, and the boundaries of any conclusions drawn from it. Missing cases and incomplete accounts remain explicit constraints on interpretation.
 
-I look forward to the discussions in Copenhagen.
+The proposed method combines expert legal coding with analysis by a Persian-capable large language model. A legally informed codebook will guide the identification of relevant passages and distinctions between allegations, evidentiary assessments, judicial conclusions, and procedural outcomes. An expert-coded benchmark will provide the basis for evaluating model outputs. The aim is to assess whether the model can assist systematic examination of judicial language without replacing legal judgment or treating fluent summaries as reliable evidence of accurate interpretation.
 
-\#LargeLanguageModels \#AIAndLaw \#ComputationalLaw \#GenderAndLaw \#AccessToJustice
+A central analytical distinction concerns the relationship between failure to establish coercion, a finding of affirmative consent, and an assessment of the complainant’s credibility. These propositions are not interchangeable. The research will examine whether computational outputs preserve the distinctions expressed in a judgment, collapse them into a single category, or introduce inferences unsupported by the text. It will also consider how the model attributes statements to different participants and whether it distinguishes a party’s allegation from a court’s reasoning or final determination.
+
+Validation will combine category-level accuracy measures with qualitative examination of errors. The project will test sensitivity to changes in prompts and compare analysis of Persian texts with analysis involving translation. These comparisons will examine whether apparently minor methodological choices alter the identification or interpretation of legally significant passages. Particular attention will be given to errors that change the meaning of consent, coercion, credibility, or the procedural position of a complainant, even when an output appears linguistically plausible.
+
+The project brings a constitutional access-to-justice question into dialogue with computational legal methodology. Its intended contribution is an approach to studying gendered credibility that makes both interpretive decisions and evidentiary limits visible. It does not presume that a language model can neutrally recover judicial meaning or that published decisions provide a complete picture of adjudication. Instead, it asks what a validated computational analysis can responsibly establish, where expert interpretation remains necessary, and how publication practices shape the knowledge produced about women’s encounters with courts. Corpus construction, coding choices, and translation are therefore treated as substantive decisions within legal research.
+
+## Workshop information
+
+- **Workshop:** Computational Approaches to Constitutional Law and Government
+- **Organiser:** Centre for European, Comparative and Constitutional Legal Studies (CECS)
+- **Host:** Faculty of Law, University of Copenhagen
+- **Dates:** 22–23 April 2027
+- **Location:** Copenhagen, Denmark
+- **Language:** English
+- **Format:** In-person workshop paper
+
+**Research areas:** Constitutional law; access to justice; gender and law; computational legal research; large language models.
+
+[Workshop announcement](https://www.linkedin.com/posts/demirtase_computational-constitutional-law-workshop-activity-7505222716606763008-PHR3)
 
 </div>
