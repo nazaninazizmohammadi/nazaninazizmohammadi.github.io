@@ -28,6 +28,8 @@ share: true
 
 <div lang="en" markdown="1" style="text-align: justify;">
 
+<figure style="max-width: 390px; margin: 1.5rem auto; text-align: center;"><img src="{{ '/images/tejarat-farda-issue-654-cover.jpg' | relative_url }}" alt="Cover of Tejarat-e Farda weekly, issue 654, October 31, 2026" loading="lazy" style="width: 100%; height: auto; border-radius: 3px;" /><figcaption style="font-size: 0.9rem; margin-top: 0.5rem;">Tejarat-e Farda, issue 654 (October 31, 2026)</figcaption></figure>
+
 <p><strong>Published in <em>Tejarat-e Farda</em>:</strong> A public-facing Persian version of this analysis, “Financial Right or Exit Leverage: Why Iran’s Current Mahr Framework Needs Reform,” appeared on October 31, 2026. <a href="https://www.tejaratefarda.com/بخش-اقتصاد-اجتماعی-19/52657-حق-مالی-یا-اهرم-خروج" target="_blank" rel="noopener noreferrer">Read the published article (Persian)</a>.</p>
 
 

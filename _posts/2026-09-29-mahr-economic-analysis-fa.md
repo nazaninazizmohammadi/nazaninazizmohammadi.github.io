@@ -24,6 +24,8 @@ share: true
 
 <div dir="rtl" lang="fa" markdown="1" style="direction: rtl; text-align: justify;">
 
+<figure style="max-width: 390px; margin: 1.5rem auto; text-align: center;"><img src="{{ '/images/tejarat-farda-issue-654-cover.jpg' | relative_url }}" alt="جلد شماره ۶۵۴ هفته‌نامه تجارت فردا، ۹ آبان ۱۴۰۵" loading="lazy" style="width: 100%; height: auto; border-radius: 3px;" /><figcaption style="font-size: 0.9rem; margin-top: 0.5rem;">جلد هفته‌نامه تجارت فردا، شمارهٔ ۶۵۴، ۹ آبان ۱۴۰۵</figcaption></figure>
+
 <p><strong>انتشار در تجارت فردا:</strong> نسخهٔ عمومی این تحلیل با عنوان «حق مالی یا اهرم خروج؛ چرا ساختار کنونی مهریه نیاز به اصلاح دارد؟» در ۹ آبان ۱۴۰۵ در هفته‌نامهٔ <em>تجارت فردا</em> منتشر شده است. <a href="https://www.tejaratefarda.com/بخش-اقتصاد-اجتماعی-19/52657-حق-مالی-یا-اهرم-خروج" target="_blank" rel="noopener noreferrer">مطالعهٔ مقاله در تجارت فردا</a>.</p>
 
 
