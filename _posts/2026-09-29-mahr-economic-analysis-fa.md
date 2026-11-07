@@ -1,7 +1,7 @@
 ---
 title: "از حق مالی تا اهرم خروج: تحلیل اقتصادی مهریه در حقوق خانواده ایران"
 date: 2026-09-29
-last_modified_at: 2026-10-22
+last_modified_at: 2026-11-07
 permalink: /writing/mahr-economic-analysis-fa/
 redirect_from:
   - /mahr-fa/
@@ -23,6 +23,10 @@ share: true
 ---
 
 <div dir="rtl" lang="fa" markdown="1" style="direction: rtl; text-align: justify;">
+
+<p><strong>انتشار در تجارت فردا:</strong> نسخهٔ عمومی این تحلیل با عنوان «حق مالی یا اهرم خروج؛ چرا ساختار کنونی مهریه نیاز به اصلاح دارد؟» در ۹ آبان ۱۴۰۵ در هفته‌نامهٔ <em>تجارت فردا</em> منتشر شده است. <a href="https://www.tejaratefarda.com/بخش-اقتصاد-اجتماعی-19/52657-حق-مالی-یا-اهرم-خروج" target="_blank" rel="noopener noreferrer">مطالعهٔ مقاله در تجارت فردا</a>.</p>
+
+
 
 <p><a class="btn btn--primary" href="{{ '/files/writing/mahr-economic-analysis-fa.pdf' | relative_url }}?v=20261022" target="_blank" rel="noopener">مطالعه و دانلود نسخهٔ به‌روز PDF</a></p>
 
