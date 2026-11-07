@@ -1,7 +1,7 @@
 ---
 title: "From Financial Right to Exit Leverage: An Economic Analysis of Mahr in Iranian Family Law"
 date: 2026-09-29
-last_modified_at: 2026-10-22
+last_modified_at: 2026-11-07
 permalink: /writing/mahr-economic-analysis/
 redirect_from:
   - /mahr-en/
@@ -27,6 +27,10 @@ share: true
 <p class="page__meta">Updated October 22, 2026 · Includes footnotes and a separate reference list</p>
 
 <div lang="en" markdown="1" style="text-align: justify;">
+
+<p><strong>Published in <em>Tejarat-e Farda</em>:</strong> A public-facing Persian version of this analysis, “Financial Right or Exit Leverage: Why Iran’s Current Mahr Framework Needs Reform,” appeared on October 31, 2026. <a href="https://www.tejaratefarda.com/بخش-اقتصاد-اجتماعی-19/52657-حق-مالی-یا-اهرم-خروج" target="_blank" rel="noopener noreferrer">Read the published article (Persian)</a>.</p>
+
+
 
 In Iranian family law, *mahr* is a financial entitlement owed by the husband to the wife under the marriage contract. This paper examines proposals to reform its enforcement within the broader structure of family law. The debate over “fourteen or 110 coins” does not by itself capture the issue: the economic value of *mahr* depends on a woman's access to divorce, income and housing, a share in property acquired during marriage, and effective enforcement of judgments.
 
